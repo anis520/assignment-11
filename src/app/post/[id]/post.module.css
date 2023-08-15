@@ -1,0 +1,9 @@
+.back {
+  background: rgba(78, 83, 87, 0.897);
+  color: white;
+  font-weight: bold;
+  width: fit-content;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
